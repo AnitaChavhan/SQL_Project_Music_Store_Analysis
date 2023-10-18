@@ -1,6 +1,5 @@
 # SQL_Project_Music_Store_Analysis
-The SQL project involves analyzing an online music store's data, focusing on sales, customer behavior, and inventory management to improve decision-making and enhance the store's performance.
-
+This SQL project analyzes an online music store's data, assessing sales, customer preferences for artists, and popular genres across states and countries, aiming to enhance store performance.
 # Database and Tools
 
 • Postgre SQL
